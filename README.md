@@ -78,7 +78,7 @@ The MST3K Logo base is originally from user fhsumakerspace on Thingverse.com, th
 
 Most of these files were originally intended to print full size puppet parts, on a PLA filament printer. However they don't include every part of Crow, and, needed significant modification before they could be resin printed at a small size. For example, certain areas needed to be thickened in order to prevent crumbling when reduced in size. Some parts needed redesigning so that they could assemble with glue instead of screws, and I had to modify most of the places where the parts dovetail together so that they could fit at the smaller size. I modified each of the parts to make them easier to resin-print, paint, and assemble into a model, as well as changing some of the parts to be more screen-accurate and have better geometry in some cases.
 
-The center post, hands, arm noodles, skirt rims, and web were modeled by me, Tony Fabris. I also added the Tupperware Floralier text to the Pack_512 tupperware panel pieces.
+The center post, hands, arm noodles, skirt rims, and web were modeled by me, Tony Fabris. I also added the Tupperware Floralier text to the Pack_512 Tupperware panel pieces.
 
 #### Reference Materials:
 
