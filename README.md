@@ -248,7 +248,7 @@ Make sure to thoroughly remove any specks of resin or dust caused by any trimmin
     - All of the the fluorescent yellow spray paints that I tried are translucent, so your choice of primer will affect how good the yellow looks. I recommend that you prime the eyeballs with flat white spray paint first, allow it to dry fully, and then paint with bright fluorescent yellow spray paint.
     - Wait until the fluorescent yellow is fully dry before removing the eyeballs from the masking tool.
     - When removed, the masked inner cavities inside the eyeballs should have remained unpainted, so that the pupils can be cleanly and easily inserted during assembly. If any paint ended up inside the cavity after removing it from the mask, try to carefully pull it out of the cavity with a clean toothpick. Take great care not to mess up the crisp yellow diamond-shaped edges around the pupil cavities.
-    - Leave the pupils unpainted; the black resin should be enough. If you do decide to paint the pupils black, make sure to paint only their front faces, and leave their shaft and back side unpainted (and do the painting before inserting the pupils into the eyeballs).
+    - Note that the pupils are in a separate color group, the "flat black" color group, and should be left unpainted; the black resin should be enough. If you do decide to paint the pupils black, make sure to paint only their front faces, and leave their shaft and back side unpainted (and do the painting before inserting the pupils into the eyeballs).
 
 | ![Eyes Premask](Photos/Printing%20and%20Assembly%20-%20Eyes%20Premask.jpg) | ![Eyes Masked](Photos/Printing%20and%20Assembly%20-%20Eyes%20Masked.jpg) |
 | ---------------------------------|------------------------------------------|
@@ -329,6 +329,7 @@ Make sure to thoroughly remove any specks of resin or dust caused by any trimmin
   - If you had to paint them, then do not paint (or make sure to remove the paint from) the areas where parts slide into other parts. No paint on:
     - The inner shoulder joint parts where they connect to the shoulder parts.
     - The center body post where it slides through the Tupperware parts and the neck hose part.
+    - The pupil shafts and their ball joint.
   - Depending on how much black pigment your resin has in it, the skirt rim rings (the very thin black circles) might not be opaque enough, and might have to be painted flat black anyway.
   - The arm noodles will have a "bad" side on the bottom, where there are a lot of support dots marring the simulated foam surface texture. I was able to clean this surface by using a very coarse emery stick to sand away the support dots with linear strokes, and then just leave the surface coarsely scraped that way, rather than sanding it smooth. Then I thoroughly cleaned the area I'd scraped, by firmly rubbing with a cotton swab generously soaked in isopropyl alcohol. Then I used a black sharpie to blacken the area I'd sanded, and then did even more rubbing with alcohol. The resulting texture came out OK: Not exactly the same as the printed surface texture of the noodles, but it's good enough at that scale. 
 
