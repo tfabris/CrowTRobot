@@ -6,8 +6,9 @@ https://github.com/tfabris/CrowTRobot
 
 ![Crow Main](Photos/Crow%20Main.jpg)
 
-| ![Crow Secondary 1](Photos/Secondary%201.jpg) | ![Crow Secondary 2](Photos/Secondary%202.jpg) | ![Crow Secondary 1](Photos/Secondary%203.jpg) |
-| ---------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![Crow Secondary 1](Photos/Secondary%201.jpg) | ![Crow Secondary 2](Photos/Secondary%202.jpg) |
+| ----------------------------------------------|-----------------------------------------------|
+| ![Crow Secondary 3](Photos/Secondary%203.jpg) | ![Tom and Crow](Photos/Tom%20and%20Crow.jpg)  |
 
 A project for resin-printing a small model of a character from Mystery Science Theater 3000. Not intended for making a full size puppet. Final size of model is approximately 16cm (6½ inches) tall. (I have also done Tom Servo, located [here](https://github.com/tfabris/TomServo).)
 
