@@ -42,8 +42,8 @@ You'll need to source some external materials to complete this model.
 
 Most of the paints can be substituted with similar items, however, it's important to source the canonical colors directly.
 
-  - Testors 1642T Lime Gold Metal Flake spray paint. (Canonical screen-accurate color.)
-  - Testors 1542 Gold Metal Flake bottle paint. (Canonical screen-accurate color.)
+  - Testors 1642T Lime Gold Metal Flake spray paint. (Canonical screen-accurate color. Might be discontinued?)
+  - Testors 1542 Gold Metal Flake bottle paint. (Canonical screen-accurate color. Might be discontinued?)
   - Rust-Oleum 327907 2X Ultra Cover Paint+Primer, Metallic Aluminum spray paint.
   - Rust-Oleum 327914 2X Ultra Cover Flat White Primer spray paint.
   - Rust-Oleum 342571 Fluorescent Yellow spray paint - "Yellow Bright Neon Color"
